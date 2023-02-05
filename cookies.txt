@@ -1,0 +1,1 @@
+{'domain': 'dnevnik.mos.ru', 'httpOnly': False, 'name': 'JSESSIONID', 'path': '/', 'secure': False, 'value': 'node0qv4rlj8e2vl6mh0to5trjcu84291562.node0'}
